@@ -1,0 +1,2170 @@
+[
+  {
+    "Id": 1,
+    "ClientId": "9c0d0a0d-930f-4f99-a427-f503a1ad87cc",
+    "Timestamp": "2025-03-12T15:16:41.124107+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 2,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:04.9557533+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 3,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:37.9334737+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022joaquin\u0022,\u0022PhoneNumber\u0022:\u0022111111111\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-12T12:12:00\u0022,\u0022NumberOfGuests\u0022:3,\u0022SpecialRequests\u0022:\u0022me gusta comer cacotas\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:27:37.9174093\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 4,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:37.9468779+01:00",
+    "Operation": "API-create",
+    "Resource": "reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022joaquin\u0022,\u0022PhoneNumber\u0022:\u0022111111111\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-12T12:12:00\u0022,\u0022NumberOfGuests\u0022:3,\u0022SpecialRequests\u0022:\u0022me gusta comer cacotas\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:27:37.9174093\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 5,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:38.0692009+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "reservations",
+    "Details": "Status: NotFound, Response: "
+  },
+  {
+    "Id": 6,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:38.0703628+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "reservations",
+    "Details": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "Id": 7,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:46.0224743+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 8,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:46.0229748+01:00",
+    "Operation": "API-list",
+    "Resource": "reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 9,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:46.0291744+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "reservations",
+    "Details": "Status: NotFound, Response: "
+  },
+  {
+    "Id": 10,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:27:46.0314723+01:00",
+    "Operation": "API-Error-list",
+    "Resource": "reservations",
+    "Details": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "Id": 11,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:28:20.1426347+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 12,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:28:20.1431331+01:00",
+    "Operation": "API-list",
+    "Resource": "reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 13,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:28:20.1450804+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "reservations",
+    "Details": "Status: NotFound, Response: "
+  },
+  {
+    "Id": 14,
+    "ClientId": "ca76732d-699c-46a7-9abb-d472f75a8a67",
+    "Timestamp": "2025-03-12T15:28:20.152541+01:00",
+    "Operation": "API-Error-list",
+    "Resource": "reservations",
+    "Details": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "Id": 15,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:32:13.1572836+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 16,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:32:33.2240534+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 17,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:32:33.2363434+01:00",
+    "Operation": "API-list",
+    "Resource": "reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 18,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:32:33.3763498+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "reservations",
+    "Details": "Status: OK, Response: []"
+  },
+  {
+    "Id": 19,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:33:07.1310584+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022jaoquin\u0022,\u0022PhoneNumber\u0022:\u0022111111111\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-12T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:33:07.1238911\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 20,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:33:07.1318671+01:00",
+    "Operation": "API-create",
+    "Resource": "reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022jaoquin\u0022,\u0022PhoneNumber\u0022:\u0022111111111\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-12T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:33:07.1238911\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 21,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:33:07.1479299+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022jaoquin\u0022,\u0022phoneNumber\u0022:\u0022111111111\u0022,\u0022reservationDateTime\u0022:\u00222025-03-12T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:33:07.1435817\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 22,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:33:19.0030811+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 23,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:33:19.0035889+01:00",
+    "Operation": "API-list",
+    "Resource": "reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 24,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:33:19.0053943+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022jaoquin\u0022,\u0022phoneNumber\u0022:\u0022111111111\u0022,\u0022reservationDateTime\u0022:\u00222025-03-12T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:33:07.1435817\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 25,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:34:08.4087588+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 26,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:34:08.4094702+01:00",
+    "Operation": "API-get",
+    "Resource": "reservations/{id}",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 27,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:34:08.4208556+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "reservations/{id}",
+    "Details": "Status: BadRequest, Response: Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to bind parameter \u0022long id\u0022 from \u0022{id}\u0022.\r\n   at lambda_method3(Closure, Object, HttpContext)\r\n   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nX-Client-Id: a9d2e2b7-ace4-439f-bd0a-76a614742d0a\r\n"
+  },
+  {
+    "Id": 28,
+    "ClientId": "a9d2e2b7-ace4-439f-bd0a-76a614742d0a",
+    "Timestamp": "2025-03-12T15:34:08.4250406+01:00",
+    "Operation": "API-Error-get",
+    "Resource": "reservations/{id}",
+    "Details": "Response status code does not indicate success: 400 (Bad Request)."
+  },
+  {
+    "Id": 29,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:41:36.3962742+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 30,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:41:46.9766728+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 31,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:41:46.9887571+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 32,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:41:47.1198124+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: NotFound, Response: "
+  },
+  {
+    "Id": 33,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:41:47.1209464+01:00",
+    "Operation": "API-Error-list",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "Id": 34,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:42:20.4935049+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022joan\u0022,\u0022PhoneNumber\u0022:\u002212\u0022,\u0022ReservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022NumberOfGuests\u0022:3,\u0022SpecialRequests\u0022:\u0022caca\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:42:20.4858352\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 35,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:42:20.4943907+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022joan\u0022,\u0022PhoneNumber\u0022:\u002212\u0022,\u0022ReservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022NumberOfGuests\u0022:3,\u0022SpecialRequests\u0022:\u0022caca\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:42:20.4858352\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 36,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:42:20.4988228+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: NotFound, Response: "
+  },
+  {
+    "Id": 37,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:42:20.5036343+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "Id": 38,
+    "ClientId": "723f0f93-91b2-4c43-90be-8019a5cb1d89",
+    "Timestamp": "2025-03-12T15:42:54.8731381+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 39,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:12.9004819+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 40,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:15.6246775+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 41,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:15.637535+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 42,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:15.7737517+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: []"
+  },
+  {
+    "Id": 43,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:29.9652006+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 44,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:29.9733085+01:00",
+    "Operation": "API-get",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 45,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:29.9773155+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "api/reservations/1",
+    "Details": "Status: NotFound, Response: "
+  },
+  {
+    "Id": 46,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:29.9815354+01:00",
+    "Operation": "API-Error-get",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "Id": 47,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:52.1526657+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022a\u0022,\u0022PhoneNumber\u0022:\u0022a\u0022,\u0022ReservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022NumberOfGuests\u0022:1,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:44:52.1465442\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 48,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:52.1534253+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022a\u0022,\u0022PhoneNumber\u0022:\u0022a\u0022,\u0022ReservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022NumberOfGuests\u0022:1,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:44:52.1465442\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 49,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:44:52.1677072+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022a\u0022,\u0022phoneNumber\u0022:\u0022a\u0022,\u0022reservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:44:52.1634213\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 50,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:45:03.099835+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 51,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:45:03.1004661+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 52,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:45:03.101679+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022a\u0022,\u0022phoneNumber\u0022:\u0022a\u0022,\u0022reservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:44:52.1634213\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 53,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:45:21.7118574+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 54,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:45:21.7125451+01:00",
+    "Operation": "API-get",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 55,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:45:21.7138614+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "api/reservations/1",
+    "Details": "Status: OK, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022a\u0022,\u0022phoneNumber\u0022:\u0022a\u0022,\u0022reservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:44:52.1634213\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 56,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:46:21.3407253+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ajasjd\u0022,\u0022PhoneNumber\u0022:\u0022123\u0022,\u0022ReservationDateTime\u0022:\u00221995-10-01T10:10:00\u0022,\u0022NumberOfGuests\u0022:1,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:46:21.3392794\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 57,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:46:21.3413622+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ajasjd\u0022,\u0022PhoneNumber\u0022:\u0022123\u0022,\u0022ReservationDateTime\u0022:\u00221995-10-01T10:10:00\u0022,\u0022NumberOfGuests\u0022:1,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T15:46:21.3392794\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 58,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:46:21.3433979+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:2,\u0022customerName\u0022:\u0022ajasjd\u0022,\u0022phoneNumber\u0022:\u0022123\u0022,\u0022reservationDateTime\u0022:\u00221995-10-01T10:10:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:46:21.3430198\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 59,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:46:32.6647325+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 60,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:46:32.6654156+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 61,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:46:32.6664854+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022a\u0022,\u0022phoneNumber\u0022:\u0022a\u0022,\u0022reservationDateTime\u0022:\u00222025-10-01T10:10:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:44:52.1634213\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ajasjd\u0022,\u0022phoneNumber\u0022:\u0022123\u0022,\u0022reservationDateTime\u0022:\u00221995-10-01T10:10:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T15:46:21.3430198\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 62,
+    "ClientId": "7d929521-1567-42d0-ab3b-7377d4232b7a",
+    "Timestamp": "2025-03-12T15:47:28.4540963+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 63,
+    "ClientId": "d638252c-ec9d-4b2b-ae31-7c7168f69501",
+    "Timestamp": "2025-03-12T15:48:09.002679+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 64,
+    "ClientId": "d638252c-ec9d-4b2b-ae31-7c7168f69501",
+    "Timestamp": "2025-03-12T15:48:11.219046+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 65,
+    "ClientId": "d638252c-ec9d-4b2b-ae31-7c7168f69501",
+    "Timestamp": "2025-03-12T15:48:11.2313738+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 66,
+    "ClientId": "d638252c-ec9d-4b2b-ae31-7c7168f69501",
+    "Timestamp": "2025-03-12T15:48:11.364574+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: []"
+  },
+  {
+    "Id": 67,
+    "ClientId": "d638252c-ec9d-4b2b-ae31-7c7168f69501",
+    "Timestamp": "2025-03-12T15:49:42.740117+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 68,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:41:36.2210619+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 69,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:41:38.6787635+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 70,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:41:38.691268+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 71,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:41:38.8480769+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: []"
+  },
+  {
+    "Id": 72,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:40.4741154+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Joaquin\u0022,\u0022PhoneNumber\u0022:\u0022123123123\u0022,\u0022ReservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022NumberOfGuests\u0022:1,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T17:42:40.4670391\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 73,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:40.4753068+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Joaquin\u0022,\u0022PhoneNumber\u0022:\u0022123123123\u0022,\u0022ReservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022NumberOfGuests\u0022:1,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:0,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-12T17:42:40.4670391\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 74,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:40.502319+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 75,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:46.8162963+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 76,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:46.8170003+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 77,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:46.8201101+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 78,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:51.7333479+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 79,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:51.7340217+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 80,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:51.7353653+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 81,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:55.8849404+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 82,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:55.8933988+01:00",
+    "Operation": "API-get",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 83,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:42:55.8961206+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "api/reservations/1",
+    "Details": "Status: OK, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 84,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:43:01.4225681+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u0022718cc883-e672-4bf5-895c-e88cd45877c8\u0022}"
+  },
+  {
+    "Id": 85,
+    "ClientId": "718cc883-e672-4bf5-895c-e88cd45877c8",
+    "Timestamp": "2025-03-12T17:43:01.4234147+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 86,
+    "ClientId": "da79e402-390c-4ad5-88a7-2488b3ab5566",
+    "Timestamp": "2025-03-12T17:43:16.3146337+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 87,
+    "ClientId": "da79e402-390c-4ad5-88a7-2488b3ab5566",
+    "Timestamp": "2025-03-12T17:43:19.483828+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 88,
+    "ClientId": "da79e402-390c-4ad5-88a7-2488b3ab5566",
+    "Timestamp": "2025-03-12T17:43:19.4845157+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 89,
+    "ClientId": "da79e402-390c-4ad5-88a7-2488b3ab5566",
+    "Timestamp": "2025-03-12T17:43:19.4860214+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 90,
+    "ClientId": "da79e402-390c-4ad5-88a7-2488b3ab5566",
+    "Timestamp": "2025-03-12T17:43:23.9946147+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 91,
+    "ClientId": "18541246-e9c6-430b-9da0-0650193b0c5d",
+    "Timestamp": "2025-03-12T17:44:27.9604736+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 92,
+    "ClientId": "18541246-e9c6-430b-9da0-0650193b0c5d",
+    "Timestamp": "2025-03-12T17:44:29.7216073+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 93,
+    "ClientId": "18541246-e9c6-430b-9da0-0650193b0c5d",
+    "Timestamp": "2025-03-12T17:44:29.7222953+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 94,
+    "ClientId": "18541246-e9c6-430b-9da0-0650193b0c5d",
+    "Timestamp": "2025-03-12T17:44:29.8205647+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 95,
+    "ClientId": "18541246-e9c6-430b-9da0-0650193b0c5d",
+    "Timestamp": "2025-03-12T17:44:42.5578657+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 96,
+    "ClientId": "bcc70763-f642-475e-a659-c069ef537308",
+    "Timestamp": "2025-03-12T17:46:04.2637667+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 97,
+    "ClientId": "bcc70763-f642-475e-a659-c069ef537308",
+    "Timestamp": "2025-03-12T17:46:16.028398+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 98,
+    "ClientId": "bcc70763-f642-475e-a659-c069ef537308",
+    "Timestamp": "2025-03-12T17:46:16.0290737+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 99,
+    "ClientId": "bcc70763-f642-475e-a659-c069ef537308",
+    "Timestamp": "2025-03-12T17:46:16.1261838+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 100,
+    "ClientId": "bcc70763-f642-475e-a659-c069ef537308",
+    "Timestamp": "2025-03-12T17:46:18.7394104+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 101,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:55:46.853703+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 102,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:55:49.5857293+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 103,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:55:49.5982968+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 104,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:55:49.7236606+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 105,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:56:03.8509595+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 106,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:56:03.8587632+01:00",
+    "Operation": "API-get",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 107,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:56:03.8637306+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "api/reservations/1",
+    "Details": "Status: OK, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 108,
+    "ClientId": "949a3023-d186-422a-a4e1-929f58db66c1",
+    "Timestamp": "2025-03-12T17:56:12.6255147+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 109,
+    "ClientId": "caa103af-6b31-469f-b033-1b695dd7e078",
+    "Timestamp": "2025-03-12T17:58:42.9618581+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 110,
+    "ClientId": "151dd86c-efe8-4d27-87bd-9b21702137b4",
+    "Timestamp": "2025-03-12T18:03:52.467586+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 111,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:30.7773797+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 112,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:38.4985709+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 113,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:38.5109791+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 114,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:38.6375405+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 115,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:48.1104105+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 116,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:48.1212406+01:00",
+    "Operation": "API-get",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1}"
+  },
+  {
+    "Id": 117,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:48.1270544+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "api/reservations/1",
+    "Details": "Status: OK, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 118,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:59.5550088+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u0022df418a34-69ee-4fac-ad1a-5dd0c2ab1e59\u0022}"
+  },
+  {
+    "Id": 119,
+    "ClientId": "df418a34-69ee-4fac-ad1a-5dd0c2ab1e59",
+    "Timestamp": "2025-03-12T18:06:59.5559819+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 120,
+    "ClientId": "3030c1c0-801d-4590-a9ad-71965cd208ea",
+    "Timestamp": "2025-03-12T18:23:00.213339+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 121,
+    "ClientId": "3030c1c0-801d-4590-a9ad-71965cd208ea",
+    "Timestamp": "2025-03-12T18:28:37.8299525+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 122,
+    "ClientId": "cbe09522-4761-4ee0-8b77-9b650c705729",
+    "Timestamp": "2025-03-12T18:32:39.6607385+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 123,
+    "ClientId": "cbe09522-4761-4ee0-8b77-9b650c705729",
+    "Timestamp": "2025-03-12T18:32:46.0695599+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 124,
+    "ClientId": "cbe09522-4761-4ee0-8b77-9b650c705729",
+    "Timestamp": "2025-03-12T18:32:46.0823285+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 125,
+    "ClientId": "cbe09522-4761-4ee0-8b77-9b650c705729",
+    "Timestamp": "2025-03-12T18:32:46.2239657+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 126,
+    "ClientId": "cbe09522-4761-4ee0-8b77-9b650c705729",
+    "Timestamp": "2025-03-12T18:33:21.9377457+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 127,
+    "ClientId": "cffe0605-e1b2-4496-a727-4b404babe7fc",
+    "Timestamp": "2025-03-13T00:31:52.4537492+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 128,
+    "ClientId": "a8203cfc-7611-4410-ad67-b220eabe8e53",
+    "Timestamp": "2025-03-13T00:36:20.6863162+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 129,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:39:32.9566837+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 130,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:39:37.4042801+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 131,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:39:37.4175442+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 132,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:39:37.5896048+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 133,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:23.8133764+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Pedro\u0022,\u0022PhoneNumber\u0022:\u0022\u002B34 724 244 624\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022no\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T00:41:23.8066002\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 134,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:23.8165433+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Pedro\u0022,\u0022PhoneNumber\u0022:\u0022\u002B34 724 244 624\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022no\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T00:41:23.8066002\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 135,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:23.8440313+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:2,\u0022customerName\u0022:\u0022Pedro\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 724 244 624\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022no\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T00:41:23.8376095\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 136,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:31.8045344+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 137,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:31.805608+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 138,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:31.8086578+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022Pedro\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 724 244 624\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022no\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T00:41:23.8376095\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 139,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:49.8779025+01:00",
+    "Operation": "get",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:2}"
+  },
+  {
+    "Id": 140,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:49.8937834+01:00",
+    "Operation": "API-get",
+    "Resource": "api/reservations/2",
+    "Details": "{\u0022Id\u0022:2}"
+  },
+  {
+    "Id": 141,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:41:49.9062916+01:00",
+    "Operation": "API-Response-get",
+    "Resource": "api/reservations/2",
+    "Details": "Status: OK, Response: {\u0022id\u0022:2,\u0022customerName\u0022:\u0022Pedro\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 724 244 624\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022no\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T00:41:23.8376095\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 142,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:42:07.408567+01:00",
+    "Operation": "delete",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:2}"
+  },
+  {
+    "Id": 143,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:42:07.4109382+01:00",
+    "Operation": "API-delete",
+    "Resource": "api/reservations/2",
+    "Details": "{\u0022Id\u0022:2}"
+  },
+  {
+    "Id": 144,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:42:07.4159085+01:00",
+    "Operation": "API-Response-delete",
+    "Resource": "api/reservations/2",
+    "Details": "Status: NoContent, Response: "
+  },
+  {
+    "Id": 145,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:42:09.8055933+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 146,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:42:09.8071169+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 147,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:42:09.811511+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin\u0022,\u0022phoneNumber\u0022:\u0022123123123\u0022,\u0022reservationDateTime\u0022:\u00222025-10-02T12:12:00\u0022,\u0022numberOfGuests\u0022:1,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:0,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-12T17:42:40.4966821\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 148,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:01.6077174+01:00",
+    "Operation": "update",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1,\u0022CustomerName\u0022:\u0022Joaquin Pe\u00F1alva\u0022,\u0022PhoneNumber\u0022:\u0022\u002B34 675 156 555\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:43:01.6054975\u002B01:00\u0022}"
+  },
+  {
+    "Id": 149,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:01.6117674+01:00",
+    "Operation": "API-update",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1,\u0022CustomerName\u0022:\u0022Joaquin Pe\u00F1alva\u0022,\u0022PhoneNumber\u0022:\u0022\u002B34 675 156 555\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:43:01.6054975\u002B01:00\u0022}"
+  },
+  {
+    "Id": 150,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:01.6388256+01:00",
+    "Operation": "API-Response-update",
+    "Resource": "api/reservations/1",
+    "Details": "Status: OK, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin Pe\u00F1alva\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 675 156 555\u0022,\u0022reservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:43:01.6373117\u002B01:00\u0022}"
+  },
+  {
+    "Id": 151,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:07.6978554+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 152,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:07.6993021+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 153,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:07.7035347+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin Pe\u00F1alva\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 675 156 555\u0022,\u0022reservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:43:01.6373117\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 154,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:48.3553865+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u00222372\u0022,\u0022ReservationDateTime\u0022:\u00222025-02-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T00:43:48.3516796\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 155,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:48.3565002+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u00222372\u0022,\u0022ReservationDateTime\u0022:\u00222025-02-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T00:43:48.3516796\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 156,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:43:48.3617762+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u00222372\u0022,\u0022reservationDateTime\u0022:\u00222025-02-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T00:43:48.3601558\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 157,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:44:01.7582906+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 158,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:44:01.7675744+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 159,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:44:01.7724052+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin Pe\u00F1alva\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 675 156 555\u0022,\u0022reservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:43:01.6373117\u002B01:00\u0022},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u00222372\u0022,\u0022reservationDateTime\u0022:\u00222025-02-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T00:43:48.3601558\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 160,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:44:39.2154305+01:00",
+    "Operation": "update",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u002225637\u0022,\u0022ReservationDateTime\u0022:\u00222015-03-04T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:44:39.2107457\u002B01:00\u0022}"
+  },
+  {
+    "Id": 161,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:44:39.2182355+01:00",
+    "Operation": "API-update",
+    "Resource": "api/reservations/3",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u002225637\u0022,\u0022ReservationDateTime\u0022:\u00222015-03-04T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:44:39.2107457\u002B01:00\u0022}"
+  },
+  {
+    "Id": 162,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:44:39.2252446+01:00",
+    "Operation": "API-Response-update",
+    "Resource": "api/reservations/3",
+    "Details": "Status: OK, Response: {\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u002225637\u0022,\u0022reservationDateTime\u0022:\u00222015-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:44:39.2238255\u002B01:00\u0022}"
+  },
+  {
+    "Id": 163,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:45:18.5137357+01:00",
+    "Operation": "update",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u0022423\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:45:18.5105331\u002B01:00\u0022}"
+  },
+  {
+    "Id": 164,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:45:18.5150966+01:00",
+    "Operation": "API-update",
+    "Resource": "api/reservations/3",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u0022423\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:45:18.5105331\u002B01:00\u0022}"
+  },
+  {
+    "Id": 165,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:45:18.518805+01:00",
+    "Operation": "API-Response-update",
+    "Resource": "api/reservations/3",
+    "Details": "Status: OK, Response: {\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022423\u0022,\u0022reservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:45:18.5179658\u002B01:00\u0022}"
+  },
+  {
+    "Id": 166,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:45:25.2235003+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 167,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:45:25.2252275+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 168,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:45:25.2293359+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaquin Pe\u00F1alva\u0022,\u0022phoneNumber\u0022:\u0022\u002B34 675 156 555\u0022,\u0022reservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:43:01.6373117\u002B01:00\u0022},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022423\u0022,\u0022reservationDateTime\u0022:\u00222025-03-04T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:45:18.5179658\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 169,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:28.5908437+01:00",
+    "Operation": "update",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:1,\u0022CustomerName\u0022:\u0022Joaqui\u0022,\u0022PhoneNumber\u0022:\u0022333\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:46:28.5873628\u002B01:00\u0022}"
+  },
+  {
+    "Id": 170,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:28.5924675+01:00",
+    "Operation": "API-update",
+    "Resource": "api/reservations/1",
+    "Details": "{\u0022Id\u0022:1,\u0022CustomerName\u0022:\u0022Joaqui\u0022,\u0022PhoneNumber\u0022:\u0022333\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:46:28.5873628\u002B01:00\u0022}"
+  },
+  {
+    "Id": 171,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:28.5978554+01:00",
+    "Operation": "API-Response-update",
+    "Resource": "api/reservations/1",
+    "Details": "Status: OK, Response: {\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022}"
+  },
+  {
+    "Id": 172,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:51.5877828+01:00",
+    "Operation": "update",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u0022324\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:46:51.5839853\u002B01:00\u0022}"
+  },
+  {
+    "Id": 173,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:51.5902688+01:00",
+    "Operation": "API-update",
+    "Resource": "api/reservations/3",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u0022324\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T00:46:51.5839853\u002B01:00\u0022}"
+  },
+  {
+    "Id": 174,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:51.6172708+01:00",
+    "Operation": "API-Response-update",
+    "Resource": "api/reservations/3",
+    "Details": "Status: OK, Response: {\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022324\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:51.616226\u002B01:00\u0022}"
+  },
+  {
+    "Id": 175,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:55.9107602+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 176,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:55.911699+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 177,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:46:55.9168339+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022324\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:51.616226\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 178,
+    "ClientId": "a0594eb6-cb82-4296-828c-d4b4eaff1f52",
+    "Timestamp": "2025-03-13T00:50:03.6767778+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 179,
+    "ClientId": "93e73112-e927-4b28-b84c-8a3cc06d39a1",
+    "Timestamp": "2025-03-13T01:09:59.7098522+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 180,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:11:27.9133627+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 181,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:11:33.1060622+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 182,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:11:33.1200496+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 183,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:11:33.2564744+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022324\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:51.616226\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 184,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:23.0569025+01:00",
+    "Operation": "delete",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:3}"
+  },
+  {
+    "Id": 185,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:23.0716139+01:00",
+    "Operation": "API-delete",
+    "Resource": "api/reservations/3",
+    "Details": "{\u0022Id\u0022:3}"
+  },
+  {
+    "Id": 186,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:23.0994676+01:00",
+    "Operation": "API-Response-delete",
+    "Resource": "api/reservations/3",
+    "Details": "Status: NoContent, Response: "
+  },
+  {
+    "Id": 187,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:24.3261715+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 188,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:24.328146+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 189,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:24.3327638+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 190,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:49.8581246+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022EE\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:12:49.8487574\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 191,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:49.8613425+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022EE\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:12:49.8487574\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 192,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:49.8890052+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: InternalServerError, Response: System.InvalidOperationException: La mesa ya est\u00E1 reservada para la fecha y hora especificadas.\r\n   at JsonDataService.CreateReservationAsync(Reservation reservation) in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\JsonDataService.cs:line 138\r\n   at Program.\u003C\u003Ec.\u003C\u003C\u003CMain\u003E$\u003Eb__0_2\u003Ed.MoveNext() in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\Program.cs:line 54\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task\u00601 task, HttpContext httpContext)\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.\u003C\u003Ec__DisplayClass102_2.\u003C\u003CHandleRequestBodyAndCompileRequestDelegateForJson\u003Eb__2\u003Ed.MoveNext()\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nContent-Type: application/json; charset=utf-8\r\nContent-Length: 238\r\nX-Client-Id: c789c049-c85d-4c96-a32d-c150356d0ed5\r\n"
+  },
+  {
+    "Id": 193,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:49.9094444+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 500 (Internal Server Error)."
+  },
+  {
+    "Id": 194,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:59.3893162+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 195,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:59.3911548+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 196,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:12:59.3947532+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 197,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:14:57.1498592+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u0022c789c049-c85d-4c96-a32d-c150356d0ed5\u0022}"
+  },
+  {
+    "Id": 198,
+    "ClientId": "c789c049-c85d-4c96-a32d-c150356d0ed5",
+    "Timestamp": "2025-03-13T01:14:57.1519415+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 199,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:17:54.6440514+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 200,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:13.158268+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 201,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:13.1701872+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 202,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:13.3055959+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 203,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:32.6404365+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:18:32.6337691\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 204,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:32.6436564+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:18:32.6337691\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 205,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:32.6878584+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: InternalServerError, Response: System.InvalidOperationException: La mesa ya est\u00E1 reservada para la fecha y hora especificadas.\r\n   at JsonDataService.CreateReservationAsync(Reservation reservation) in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\JsonDataService.cs:line 138\r\n   at Program.\u003C\u003Ec.\u003C\u003C\u003CMain\u003E$\u003Eb__0_2\u003Ed.MoveNext() in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\Program.cs:line 54\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task\u00601 task, HttpContext httpContext)\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.\u003C\u003Ec__DisplayClass102_2.\u003C\u003CHandleRequestBodyAndCompileRequestDelegateForJson\u003Eb__2\u003Ed.MoveNext()\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nContent-Type: application/json; charset=utf-8\r\nContent-Length: 237\r\nX-Client-Id: 46acbcd5-e270-44a2-aa79-0a5696687486\r\n"
+  },
+  {
+    "Id": 206,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:18:32.6902959+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 500 (Internal Server Error)."
+  },
+  {
+    "Id": 207,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:19:27.4484161+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u0022ee\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:3,\u0022SpecialRequests\u0022:\u00223\u0022,\u0022TableNumber\u0022:4,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:19:27.4448043\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 208,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:19:27.4509436+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u0022ee\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:3,\u0022SpecialRequests\u0022:\u00223\u0022,\u0022TableNumber\u0022:4,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:19:27.4448043\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 209,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:19:27.4596072+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 210,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:19:47.2784273+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 211,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:19:47.2803086+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 212,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:19:47.3107323+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 213,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:21:27.1391063+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u002246acbcd5-e270-44a2-aa79-0a5696687486\u0022}"
+  },
+  {
+    "Id": 214,
+    "ClientId": "46acbcd5-e270-44a2-aa79-0a5696687486",
+    "Timestamp": "2025-03-13T01:21:27.1437508+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 215,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:21:59.2356142+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 216,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:14.4484024+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 217,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:14.4612607+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 218,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:14.5955175+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 219,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:42.4390568+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:22:42.4334732\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 220,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:42.4429464+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:22:42.4334732\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 221,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:42.4933637+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: InternalServerError, Response: System.InvalidOperationException: La mesa ya est\u00E1 reservada para la fecha y hora especificadas.\r\n   at JsonDataService.CreateReservationAsync(Reservation reservation) in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\JsonDataService.cs:line 138\r\n   at Program.\u003C\u003Ec.\u003C\u003C\u003CMain\u003E$\u003Eb__0_2\u003Ed.MoveNext() in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\Program.cs:line 54\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task\u00601 task, HttpContext httpContext)\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.\u003C\u003Ec__DisplayClass102_2.\u003C\u003CHandleRequestBodyAndCompileRequestDelegateForJson\u003Eb__2\u003Ed.MoveNext()\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nContent-Type: application/json; charset=utf-8\r\nContent-Length: 238\r\nX-Client-Id: 78ba4e3a-7009-44f2-8102-3e3f969f74b6\r\n"
+  },
+  {
+    "Id": 222,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:22:42.4957371+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 500 (Internal Server Error)."
+  },
+  {
+    "Id": 223,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:25:10.6168701+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u002278ba4e3a-7009-44f2-8102-3e3f969f74b6\u0022}"
+  },
+  {
+    "Id": 224,
+    "ClientId": "78ba4e3a-7009-44f2-8102-3e3f969f74b6",
+    "Timestamp": "2025-03-13T01:25:10.6222555+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 225,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:25:41.2254739+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 226,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:15.312404+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 227,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:15.324936+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 228,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:15.4623572+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 229,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:30.8106668+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:26:30.8018296\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 230,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:30.8143652+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ee\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:26:30.8018296\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 231,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:30.8392262+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: InternalServerError, Response: System.InvalidOperationException: La mesa ya est\u00E1 reservada para la fecha y hora especificadas.\r\n   at JsonDataService.CreateReservationAsync(Reservation reservation) in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\JsonDataService.cs:line 138\r\n   at Program.\u003C\u003Ec.\u003C\u003C\u003CMain\u003E$\u003Eb__0_2\u003Ed.MoveNext() in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\Program.cs:line 54\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task\u00601 task, HttpContext httpContext)\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.\u003C\u003Ec__DisplayClass102_2.\u003C\u003CHandleRequestBodyAndCompileRequestDelegateForJson\u003Eb__2\u003Ed.MoveNext()\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nContent-Type: application/json; charset=utf-8\r\nContent-Length: 238\r\nX-Client-Id: 9ffb448a-47c0-4f84-9f4b-4a674ef787bb\r\n"
+  },
+  {
+    "Id": 232,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:26:30.8603528+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 500 (Internal Server Error)."
+  },
+  {
+    "Id": 233,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:29:30.7326853+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u00229ffb448a-47c0-4f84-9f4b-4a674ef787bb\u0022}"
+  },
+  {
+    "Id": 234,
+    "ClientId": "9ffb448a-47c0-4f84-9f4b-4a674ef787bb",
+    "Timestamp": "2025-03-13T01:29:30.736+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 235,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:17.0126025+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 236,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:33.1236067+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022EE\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:30:33.1054119\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 237,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:33.1362152+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022EE\u0022,\u0022PhoneNumber\u0022:\u002233\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T01:30:33.1054119\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 238,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:33.2797431+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: InternalServerError, Response: System.InvalidOperationException: La mesa ya est\u00E1 reservada para la fecha y hora especificadas.\r\n   at JsonDataService.CreateReservationAsync(Reservation reservation) in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\JsonDataService.cs:line 138\r\n   at Program.\u003C\u003Ec.\u003C\u003C\u003CMain\u003E$\u003Eb__0_2\u003Ed.MoveNext() in C:\\Users\\Martin\\Downloads\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\Program.cs:line 54\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task\u00601 task, HttpContext httpContext)\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.\u003C\u003Ec__DisplayClass102_2.\u003C\u003CHandleRequestBodyAndCompileRequestDelegateForJson\u003Eb__2\u003Ed.MoveNext()\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nContent-Type: application/json; charset=utf-8\r\nContent-Length: 238\r\nX-Client-Id: bcde4e2e-d583-4982-8839-51b578572836\r\n"
+  },
+  {
+    "Id": 239,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:33.2821636+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 500 (Internal Server Error)."
+  },
+  {
+    "Id": 240,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:58.8605975+01:00",
+    "Operation": "Disconnect",
+    "Resource": "API",
+    "Details": "{\u0022ClientId\u0022:\u0022bcde4e2e-d583-4982-8839-51b578572836\u0022}"
+  },
+  {
+    "Id": 241,
+    "ClientId": "bcde4e2e-d583-4982-8839-51b578572836",
+    "Timestamp": "2025-03-13T01:30:58.8661731+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 242,
+    "ClientId": "76ac6cbc-ac15-4ec1-be8d-8814b013843e",
+    "Timestamp": "2025-03-13T02:11:11.362758+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 243,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:12:28.7138497+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 244,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:12:31.6512126+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 245,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:12:31.669466+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 246,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:12:31.8167089+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 247,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:04.8806709+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ww\u0022,\u0022PhoneNumber\u0022:\u002232\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T02:13:04.8744558\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 248,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:04.8838459+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022ww\u0022,\u0022PhoneNumber\u0022:\u002232\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u00222\u0022,\u0022TableNumber\u0022:2,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T02:13:04.8744558\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 249,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:04.9627796+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: InternalServerError, Response: System.InvalidOperationException: La mesa ya est\u00E1 reservada para la fecha y hora especificadas.\r\n   at JsonDataService.CreateReservationAsync(Reservation reservation) in C:\\Users\\Martin\\Documents\\segundo\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\JsonDataService.cs:line 138\r\n   at Program.\u003C\u003Ec.\u003C\u003C\u003CMain\u003E$\u003Eb__0_2\u003Ed.MoveNext() in C:\\Users\\Martin\\Documents\\segundo\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PROYECTO MARTIN ACABAO\\PSP_MARTIN_PENALVA\\API\\Program.cs:line 54\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task\u00601 task, HttpContext httpContext)\r\n   at Microsoft.AspNetCore.Http.RequestDelegateFactory.\u003C\u003Ec__DisplayClass102_2.\u003C\u003CHandleRequestBodyAndCompileRequestDelegateForJson\u003Eb__2\u003Ed.MoveNext()\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json\r\nHost: localhost:5138\r\nContent-Type: application/json; charset=utf-8\r\nContent-Length: 238\r\nX-Client-Id: e06cec67-c1b0-4ed6-a3a0-cb736171dc64\r\n"
+  },
+  {
+    "Id": 250,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:04.9669821+01:00",
+    "Operation": "API-Error-create",
+    "Resource": "api/reservations",
+    "Details": "Response status code does not indicate success: 500 (Internal Server Error)."
+  },
+  {
+    "Id": 251,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:10.9585904+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 252,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:10.9693367+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 253,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:10.9755041+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 254,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:34.4159331+01:00",
+    "Operation": "create",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u00222453\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:5,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T02:13:34.4118256\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 255,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:34.4179598+01:00",
+    "Operation": "API-create",
+    "Resource": "api/reservations",
+    "Details": "{\u0022Id\u0022:0,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u00222453\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:5,\u0022IsConfirmed\u0022:false,\u0022CreatedAt\u0022:\u00222025-03-13T02:13:34.4118256\u002B01:00\u0022,\u0022LastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 256,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:34.4243859+01:00",
+    "Operation": "API-Response-create",
+    "Resource": "api/reservations",
+    "Details": "Status: Created, Response: {\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u00222453\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:5,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T02:13:34.4203618\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}"
+  },
+  {
+    "Id": 257,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:38.3524167+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 258,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:38.3540059+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 259,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:13:38.3581947+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u00222453\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:5,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T02:13:34.4203618\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null}]"
+  },
+  {
+    "Id": 260,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:02.0750125+01:00",
+    "Operation": "update",
+    "Resource": "API",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u0022234\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:4,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T02:14:02.0674626\u002B01:00\u0022}"
+  },
+  {
+    "Id": 261,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:02.0929439+01:00",
+    "Operation": "API-update",
+    "Resource": "api/reservations/3",
+    "Details": "{\u0022Id\u0022:3,\u0022CustomerName\u0022:\u0022Pepe\u0022,\u0022PhoneNumber\u0022:\u0022234\u0022,\u0022ReservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022NumberOfGuests\u0022:2,\u0022SpecialRequests\u0022:\u0022\u0022,\u0022TableNumber\u0022:4,\u0022IsConfirmed\u0022:true,\u0022CreatedAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022LastModifiedAt\u0022:\u00222025-03-13T02:14:02.0674626\u002B01:00\u0022}"
+  },
+  {
+    "Id": 262,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:02.1040093+01:00",
+    "Operation": "API-Response-update",
+    "Resource": "api/reservations/3",
+    "Details": "Status: OK, Response: {\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022234\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T02:14:02.1022833\u002B01:00\u0022}"
+  },
+  {
+    "Id": 263,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:04.3044128+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 264,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:04.3075018+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 265,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:04.3346342+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022234\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T02:14:02.1022833\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 266,
+    "ClientId": "e06cec67-c1b0-4ed6-a3a0-cb736171dc64",
+    "Timestamp": "2025-03-13T02:14:14.5510673+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  },
+  {
+    "Id": 267,
+    "ClientId": "7294bc11-1dc9-4c54-a872-b53dd5c1d6b6",
+    "Timestamp": "2025-03-13T02:15:04.9013758+01:00",
+    "Operation": "Conexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente conectado desde 127.0.0.1"
+  },
+  {
+    "Id": 268,
+    "ClientId": "7294bc11-1dc9-4c54-a872-b53dd5c1d6b6",
+    "Timestamp": "2025-03-13T02:15:06.7679359+01:00",
+    "Operation": "list",
+    "Resource": "API",
+    "Details": "{}"
+  },
+  {
+    "Id": 269,
+    "ClientId": "7294bc11-1dc9-4c54-a872-b53dd5c1d6b6",
+    "Timestamp": "2025-03-13T02:15:06.7848533+01:00",
+    "Operation": "API-list",
+    "Resource": "api/reservations",
+    "Details": "{}"
+  },
+  {
+    "Id": 270,
+    "ClientId": "7294bc11-1dc9-4c54-a872-b53dd5c1d6b6",
+    "Timestamp": "2025-03-13T02:15:06.926875+01:00",
+    "Operation": "API-Response-list",
+    "Resource": "api/reservations",
+    "Details": "Status: OK, Response: [{\u0022id\u0022:1,\u0022customerName\u0022:\u0022Joaqui\u0022,\u0022phoneNumber\u0022:\u0022333\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u00222\u0022,\u0022tableNumber\u0022:2,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T00:46:28.5971735\u002B01:00\u0022},{\u0022id\u0022:2,\u0022customerName\u0022:\u0022ee\u0022,\u0022phoneNumber\u0022:\u0022ee\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T00:00:00\u0022,\u0022numberOfGuests\u0022:3,\u0022specialRequests\u0022:\u00223\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:false,\u0022createdAt\u0022:\u00222025-03-13T01:19:27.4563152\u002B01:00\u0022,\u0022lastModifiedAt\u0022:null},{\u0022id\u0022:3,\u0022customerName\u0022:\u0022Pepe\u0022,\u0022phoneNumber\u0022:\u0022234\u0022,\u0022reservationDateTime\u0022:\u00222025-03-03T10:10:00\u0022,\u0022numberOfGuests\u0022:2,\u0022specialRequests\u0022:\u0022\u0022,\u0022tableNumber\u0022:4,\u0022isConfirmed\u0022:true,\u0022createdAt\u0022:\u00220001-01-01T00:00:00\u0022,\u0022lastModifiedAt\u0022:\u00222025-03-13T02:14:02.1022833\u002B01:00\u0022}]"
+  },
+  {
+    "Id": 271,
+    "ClientId": "7294bc11-1dc9-4c54-a872-b53dd5c1d6b6",
+    "Timestamp": "2025-03-13T02:15:09.7838376+01:00",
+    "Operation": "Desconexi\u00F3n",
+    "Resource": "Sistema",
+    "Details": "Cliente desconectado"
+  }
+]

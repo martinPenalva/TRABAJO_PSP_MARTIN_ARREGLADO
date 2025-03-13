@@ -1,0 +1,148 @@
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\appsettings.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\API.exe
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\API.deps.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\API.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\API.pdb
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.pdb
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\appsettings.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.exe
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.deps.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.pdb
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.pdb
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\SharedModels.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.staticwebassets.endpoints.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.exe
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.staticwebassets.endpoints.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.exe
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\API.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\API\obj\Debug\net8.0\ref\API.dll

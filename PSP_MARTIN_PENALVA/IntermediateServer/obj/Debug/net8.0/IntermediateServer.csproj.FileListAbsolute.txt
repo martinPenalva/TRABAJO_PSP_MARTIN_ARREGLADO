@@ -1,0 +1,75 @@
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\bin\Debug\net8.0\IntermediateServer.exe
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\bin\Debug\net8.0\IntermediateServer.deps.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\bin\Debug\net8.0\IntermediateServer.runtimeconfig.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\bin\Debug\net8.0\IntermediateServer.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\bin\Debug\net8.0\IntermediateServer.pdb
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.AssemblyReference.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfoInputs.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfo.cs
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.sourcelink.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\Intermed.B3A4C640.Up2Date
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\refint\IntermediateServer.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.pdb
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\IntermediateServer.genruntimeconfig.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\IntermediateServer\obj\Debug\net8.0\ref\IntermediateServer.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.exe
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.deps.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.runtimeconfig.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.pdb
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.AssemblyReference.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfoInputs.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfo.cs
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\Intermed.B3A4C640.Up2Date
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\refint\IntermediateServer.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.pdb
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.genruntimeconfig.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\ref\IntermediateServer.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\SharedModels.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.exe
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.deps.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.runtimeconfig.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.AssemblyReference.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfoInputs.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfo.cs
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\Intermed.B3A4C640.Up2Date
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\refint\IntermediateServer.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.genruntimeconfig.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\ref\IntermediateServer.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.exe
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.deps.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.runtimeconfig.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\IntermediateServer.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.AssemblyInfo.cs
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\Intermed.B3A4C640.Up2Date
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\refint\IntermediateServer.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\IntermediateServer.genruntimeconfig.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\IntermediateServer\obj\Debug\net8.0\ref\IntermediateServer.dll

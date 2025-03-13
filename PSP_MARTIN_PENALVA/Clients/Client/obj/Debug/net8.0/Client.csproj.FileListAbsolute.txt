@@ -1,0 +1,75 @@
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\bin\Debug\net8.0\Client.exe
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\bin\Debug\net8.0\Client.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\juan-\Desktop\proyecto martin\TRABAJO_PSP\PSP_PROYECTO_NUEVO\Clients\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.exe
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\SharedModels.dll
+C:\Users\juan-\Desktop\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.exe
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Martin\Downloads\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.exe
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Martin\Documents\segundo\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PROYECTO MARTIN ACABAO\PSP_MARTIN_PENALVA\Clients\Client\obj\Debug\net8.0\ref\Client.dll
